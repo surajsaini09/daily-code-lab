@@ -1,2 +1,2 @@
-# NeetCode Solutions — @surajsaini09
+# NeetCode Solutions 
 
